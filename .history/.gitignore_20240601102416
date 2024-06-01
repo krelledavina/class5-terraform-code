@@ -19,4 +19,4 @@ code5/terraform.tfstate
 code5/.terraform.lock.hcl
 code5/terraform.tfstate.backup
 
-*/terraform.tfstate.backup
+*
